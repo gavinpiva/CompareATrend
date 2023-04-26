@@ -1,6 +1,6 @@
 # CompareATrend
 National Football League Quarterback analysis tool.
 Each of the plots that are created from the code files listed:
-![image](https://user-images.githubusercontent.com/65461919/234650731-cd846f0e-e933-43e1-99ec-9108027a68de.png)
-![image](https://user-images.githubusercontent.com/65461919/234663265-d1d911ff-712f-4d9b-938f-cdc7cace45b9.png)
-![image](https://user-images.githubusercontent.com/65461919/234650631-9ad6f076-1f48-4506-9c16-e9942003e289.png)
+![qb histograms](https://user-images.githubusercontent.com/65461919/234699536-f17db1a7-9915-4ddf-a188-18b6ea8b044f.png)
+![qb_horizontal_bar_chart](https://user-images.githubusercontent.com/65461919/234699565-26a671be-4724-432f-ba52-bebd7bb9b008.png)
+![qb_pie_chart](https://user-images.githubusercontent.com/65461919/234699592-7df56385-d1da-4290-80b8-f9fb0281f4dd.png)
