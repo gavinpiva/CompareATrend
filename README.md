@@ -13,7 +13,7 @@ A function get_win_loss() is defined to determine if a player's team won, lost, 
 Note: The last line of code that is commented out, agg.to_csv("QB_data_results_2022", index= False), could be used to save the aggregated data to a CSV file named "QB_data_results_2022" in the same directory as the code file. Each of these files are assembled in csv_combine.ipynb.
 
 # QB_data_results_all_years.csv
-This CSV file contains the dataset used by the scripts. It includes information about each quarterback's performance in every game they played from 2016-2023. The following columns are included:
+This CSV file contains the dataset used by the scripts. It includes information about each quarterback's performance in every game they played from 2016-2022. The following columns are included:
 
 year: The date of the game
 
