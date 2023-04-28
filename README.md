@@ -15,13 +15,11 @@ Note: The last line of code that is commented out, agg.to_csv("QB_data_results_2
 # QB_data_results_all_years.csv
 This CSV file contains the dataset used by the scripts. It includes information about each quarterback's performance in every game they played from 2016-2023. The following columns are included:
 
-game_date: The date of the game
+year: The date of the game
 
 player_name: The name of the quarterback
 
-passing_attempts: The number of passing attempts the quarterback made
-
-passing_completions: The number of passing completions the quarterback made
+location: weather the game was home or away
 
 passing_yards: The number of passing yards the quarterback threw for
 
@@ -37,7 +35,7 @@ win_loss: Whether the quarterback's team won, lost, or tied the game
 This Jupyter Notebook contains all of the information and code for assembling each of the files that are created in NFL Season Data Collection
 
 # new_models.py
-This script uses logistic regression to analyze the dataset and determine the top quarterbacks by win percentage. It creates two graphs:
+This script uses logistic and linear regression to analyze the dataset and determine the top quarterbacks by win percentage. It creates two graphs:
 
 A horizontal bar graph of the top 15 quarterbacks by win percentage
 A pie chart of the top 15 quarterbacks by win percentage, categorized by win percentage
