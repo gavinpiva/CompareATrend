@@ -4,7 +4,7 @@ National Football League Quarterback analysis tool.
 This repository contains three Python scripts that analyze a dataset of quarterback performance in the NFL.
 
 # NFL Season Data Collection.ipynb
-This code uses the nfl_data_py package to import NFL play-by-play data for the 2022 regular season, along with rosters and team descriptions. The data is filtered to only include passing plays, regular season games, and non-two point attempts.
+This code uses the nfl_data_py package to import NFL play-by-play data for the all years of the regular season, along with rosters and team descriptions. The data is filtered to only include passing plays, regular season games, and non-two point attempts.
 
 The code then merges player names and team colors into the play-by-play data. It creates a new "location" column based on the home/away team, and groups the data by player, week, result, and location. The group is aggregated by summing the number of passing touchdowns, passing yards, sacks, and interceptions.
 
